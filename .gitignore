@@ -1,0 +1,12 @@
+
+**/$RECYCLE.BIN
+**/System Volume Information
+
+**/__pycache__
+**/__pylogs__
+
+*.pyc
+*.log
+
+CT2000BX 500SSD1 SCSI Disk Device/*
+
