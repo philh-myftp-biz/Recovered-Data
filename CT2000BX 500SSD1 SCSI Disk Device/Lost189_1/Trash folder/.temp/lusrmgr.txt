@@ -1,0 +1,16 @@
+Name	Full Name	Description
+Administrator		Built-in account for administering the computer/domain
+AJ	Aaron Joyce	
+brody0927	Jean Cannon	
+DefaultAccount		A user account managed by the system.
+Guest		Built-in account for guest access to the computer/domain
+humarock	Humarock	
+jmd086	jmd086	
+Mel	Melanie Hunt	
+penderjoan	Joan Pender	
+Phil	Philip Hunt	
+phili	philip hunt	
+pwhiii	Philip Hunt	
+ServerAuth	ServerAuth	Authentication For Server Applications
+WDAGUtilityAccount		A user account managed and used by the system for Windows Defender Application Guard scenarios.
+Wzukastax	Billy Zukas	

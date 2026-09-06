@@ -1,0 +1,1 @@
+docker run -u philiphuntiv2@gmail.com  gilesknap/noip:latest -p ***REDACTED***

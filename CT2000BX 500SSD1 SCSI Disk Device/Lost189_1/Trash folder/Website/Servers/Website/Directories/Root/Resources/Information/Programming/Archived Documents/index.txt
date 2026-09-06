@@ -1,0 +1,5 @@
+1"G:\Servers\Website\Directories\Root\Resources\Information\Programming\Archived Documents\Batch" 
+1"G:\Servers\Website\Directories\Root\Resources\Information\Programming\Archived Documents\Other" 
+1"G:\Servers\Website\Directories\Root\Resources\Information\Programming\Archived Documents\Terminal" 
+1"G:\Servers\Website\Directories\Root\Resources\Information\Programming\Archived Documents\VBS file" 
+1"G:\Servers\Website\Directories\Root\Resources\Information\Programming\Archived Documents\Virtualbox" 

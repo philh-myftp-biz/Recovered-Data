@@ -1,0 +1,1 @@
+"F:\Program Files\rclone-v1.65.0-windows-amd64\rclone.exe" mount OneDrive_phiv: "F:\Cloud\OneDrive\philiphuntiv@gmail.com"
