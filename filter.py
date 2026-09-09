@@ -13,7 +13,7 @@ while True:
             if f.is_dir and f.is_empty:
                 f.delete()
 
-            if f.is_file and (f.type is None):
+            if f.is_file and ((f.type is None) or (f.size == 0)):
                 f.delete()
 
         except PermissionError:
