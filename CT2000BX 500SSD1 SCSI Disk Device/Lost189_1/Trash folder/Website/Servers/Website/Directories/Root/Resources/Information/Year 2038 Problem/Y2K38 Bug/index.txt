@@ -1,3 +1,0 @@
-2"G:\Servers\Website\Directories\Root\Resources\Information\Year 2038 Problem\Y2K38 Bug\description.txt" 
-2"G:\Servers\Website\Directories\Root\Resources\Information\Year 2038 Problem\Y2K38 Bug\index - Copy.html" 
-2"G:\Servers\Website\Directories\Root\Resources\Information\Year 2038 Problem\Y2K38 Bug\time.txt" 

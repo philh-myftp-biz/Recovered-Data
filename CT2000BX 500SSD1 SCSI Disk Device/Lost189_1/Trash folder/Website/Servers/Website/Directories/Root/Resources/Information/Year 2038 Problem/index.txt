@@ -1,2 +1,0 @@
-1"G:\Servers\Website\Directories\Root\Resources\Information\Year 2038 Problem\Asteroid" 
-1"G:\Servers\Website\Directories\Root\Resources\Information\Year 2038 Problem\Y2K38 Bug" 

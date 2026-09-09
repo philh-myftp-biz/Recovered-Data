@@ -1,1 +1,0 @@
-rclone mount GP-ts132: "F:\Cloud\Google Photos\tronicstudios132@gmail.com"

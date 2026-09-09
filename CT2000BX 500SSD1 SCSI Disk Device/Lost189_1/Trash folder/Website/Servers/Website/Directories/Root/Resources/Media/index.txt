@@ -1,4 +1,0 @@
-1"G:\Servers\Website\Directories\Root\Resources\Media\Books" 
-1"G:\Servers\Website\Directories\Root\Resources\Media\Goofy Stuff" 
-1"G:\Servers\Website\Directories\Root\Resources\Media\Jokes" 
-1"G:\Servers\Website\Directories\Root\Resources\Media\Music" 

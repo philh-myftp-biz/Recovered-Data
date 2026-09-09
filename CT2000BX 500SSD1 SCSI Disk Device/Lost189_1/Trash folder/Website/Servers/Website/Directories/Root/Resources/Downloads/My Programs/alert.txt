@@ -1,3 +1,0 @@
-I cannot take full credit for everything here.
-For a few of the programs listed, they were no longer functional,
-so I fixed them.

@@ -1,3 +1,0 @@
-2"G:\Servers\Website\Directories\Root\Resources\Information\Programming\Archived Documents\Terminal\Junction Command.pdf" 
-2"G:\Servers\Website\Directories\Root\Resources\Information\Programming\Archived Documents\Terminal\Multiple Commands One Line.pdf" 
-2"G:\Servers\Website\Directories\Root\Resources\Information\Programming\Archived Documents\Terminal\Run Command via ssh.pdf" 
